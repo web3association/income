@@ -10,6 +10,12 @@
   * [Genesis allocation](approaches/income-approaches/genesis-allocation.md)
   * [Transaction fees](approaches/income-approaches/transaction-fees.md)
   * [Reusing inactive assets](approaches/income-approaches/reusing-inactive-assets.md)
+* [Transaction fee approaches](approaches/transaction-fee-approaches/README.md)
+  * [Transaction fee factors to consider](approaches/transaction-fee-approaches/transaction-fee-factors-to-consider.md)
+  * [Fixed fee](approaches/transaction-fee-approaches/fixed-fee.md)
+  * [Percentage fee](approaches/transaction-fee-approaches/percentage-fee.md)
+  * [Percentage finality fee](approaches/transaction-fee-approaches/percentage-finality-fee.md)
+  * [Percentage demand fee](approaches/transaction-fee-approaches/percentage-demand-fee.md)
 
 ## 🔗 Links
 
