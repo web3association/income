@@ -21,7 +21,7 @@ The following are some example transaction fee approaches that could be used for
 * [**Percentage finality fee**](percentage-finality-fee.md) - Transactions could be prioritised when users are willing to pay a higher percentage fee than the other submitted transactions.
 * [**Percentage demand fee**](percentage-demand-fee.md) - The fees to make transactions on the network are increased when the network has a high or excessive amount of transaction volume demand.
 
-To compare these decision approaches a number of [factors have been considered](transaction-fee-factors-to-consider.md) and then applied to each approach to try and determine the strengths and weaknesses of each one.
+To compare these decision approaches a number of [factors have been considered](transaction-fee-factors-for-consideration.md) and then applied to each approach to try and determine the strengths and weaknesses of each one.
 
 <figure><img src="../../.gitbook/assets/transaction-fee-approaches.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,8 +40,8 @@ To compare these decision approaches a number of [factors have been considered](
 
 **Transaction fee approaches analysis**
 
-{% content-ref url="transaction-fee-factors-to-consider.md" %}
-[transaction-fee-factors-to-consider.md](transaction-fee-factors-to-consider.md)
+{% content-ref url="transaction-fee-factors-for-consideration.md" %}
+[transaction-fee-factors-for-consideration.md](transaction-fee-factors-for-consideration.md)
 {% endcontent-ref %}
 
 {% content-ref url="fixed-fee.md" %}
