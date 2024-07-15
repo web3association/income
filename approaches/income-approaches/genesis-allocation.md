@@ -36,7 +36,7 @@ The allocated genesis assets can be used for any impactful initiatives that requ
 
 **Very low game theory risks (Score - 5)**
 
-The genesis assets are already pre-determined prior to the launch of the network. The assets are then available for the ecosystem to use to maintain and improve the network and wider ecosystem. There are concerns about how these assets get disbursed and who has influence and control over those decisions however this is more of a disbursement related problem rather than an income one.
+The genesis assets are already pre-determined prior to the launch of the network. The assets are then available for the ecosystem to use to maintain and improve the network and wider ecosystem. There are concerns about how these assets get disbursed and who has influence and control over those decisions however this is more of a funding related problem rather than an income one.
 
 
 

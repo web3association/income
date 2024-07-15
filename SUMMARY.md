@@ -20,5 +20,5 @@
 ## 🔗 Links
 
 * [Treasuries](https://docs.treasuries.co)
-* [Disbursement](https://disbursement.treasuries.co)
+* [Funding](https://funding.treasuries.co)
 * [Suggestions](https://suggestions.treasuries.co)
