@@ -12,13 +12,13 @@ description: >-
 
 </div>
 
-A percentage fee means that the value of the transaction will determine the fee amount. The larger the value of the transaction the larger the fee. This approach is fairer to the users of the network as each user has a different amount of wealth. Users will pay transaction fees proportional to the value of the assets they are transacting with. The main issue with percentage fees is that they do not protect the network from people making small transactions with tiny fees which could then be repeatedly created to flood the network with transactions. Networks will likely require some form of minimum fixed fee to protect the network from this behaviour. Percentage fees could however be used at the point where the minimum threshold value for a transaction has been met and the percentage fee starts to become larger than the minimum fixed fee.
+A percentage fee means that the value of the transaction will determine the fee amount. The larger the value of the transaction the larger the fee. This approach is fairer to the users of the network as each user has a different amount of wealth. Users will pay transaction fees proportional to the value of the assets they are transacting with. The main issue with percentage fees is that they do not protect the network from people making small transactions with tiny fees which could then be repeatedly submitted to flood the network with many transactions. A percentage fixed fee approach is not effective for maximising network stability due to this attack vector.
 
 
 
 **Very high taxation fairness (Score - 5)**
 
-People are taxed based on the amount of value they are sending across the network. A percentage approach scales to treat all levels of wealth equally. People would pay fees relative to the wealth that they transact with across the network. Everyone could pay proportionally the same amount based on the value of assets they transact with.
+People are taxed based on the amount of value they are sending across the network. A percentage approach scales to treat all levels of wealth equally. People would pay fees relative to the wealth that they transact with across the network. Everyone would pay proportionally the same amount based on the value of assets they transact with.
 
 
 
@@ -30,7 +30,7 @@ Each community member will pay the same fees relative to the value of the assets
 
 **Very high network risks (Score - 1)**
 
-A percentage fee approach on its own would be highly risky for a network due to how cheap it would be to spam the network with a large volume of small transactions with tiny fees. This could make it much easier to halt the network due to excessive demand that would be easily repeatable due to the very low cost when sending very small amounts. A minimum fixed fee approach would likely also be needed whenever a percentage fee approach is being used to prevent people from being able to spam the network as easily.
+A percentage fee approach on its own would be highly risky for a network due to how cheap it would be to spam the network with a large volume of small transactions with tiny fees. This could make it much easier to halt the network due to excessive demand that would be easily repeatable due to the very low cost when sending very small amounts. Without a minimum fixed fee a percentage approach would be highly at risk of spam attacks.
 
 
 
@@ -40,4 +40,4 @@ Malicious actors could exploit the cheap fees on small transactions to flood the
 
 
 
-**Total - 12 / 20**
+**Total score = 12 / 20**

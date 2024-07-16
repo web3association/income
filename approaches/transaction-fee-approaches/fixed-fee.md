@@ -38,4 +38,4 @@ Wealthier individuals could try to exploit the fact that their transaction fees 
 
 
 
-**Total - 10 / 20**
+**Total score = 10 / 20**

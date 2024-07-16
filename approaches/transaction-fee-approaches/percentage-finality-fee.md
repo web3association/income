@@ -8,7 +8,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/transaction-fee-finality.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/transaction-fee-finality.png" alt="" width="180"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,4 +40,4 @@ Wealthy individuals would have a larger opportunity to exploit the network and o
 
 
 
-**Total - 12 / 20**
+**Total score = 12 / 20**

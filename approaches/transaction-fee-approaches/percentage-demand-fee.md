@@ -8,9 +8,11 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/transaction-fee-demand.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/transaction-fee-demand.png" alt="" width="180"><figcaption></figcaption></figure>
 
 </div>
+
+
 
 A demand fee means that the network would dynamically increase the transaction fee amount when the load on the network becomes too high or when it has gone beyond what it can handle. A percentage demand fee means that the fee would be increased proportionally to the value of the transactions being made. Demand based fees can be an effective approach for better balancing the demand within a network as users would be incentivised to avoid the demand based fees and use the network when it is cheapest to do so. Demand based fees can also be an effective way for increasing the amount of income the network receives to pay for node operators. For horizontally scalable networks the demand fee income could be used to directly incentivise more node operators to come online. Percentage fees are recommended as if this was a fixed fee the richest individuals in the network would be getting a proportionally cheaper fee on an ongoing basis compared to the value of the transactions they are making. This means they could more easily prioritise their transactions on an ongoing basis in the network.
 
@@ -40,4 +42,4 @@ Malicious actors would need to pay an increased fee to continuously try and atta
 
 
 
-**Total - 14 / 20**
+**Total score = 14 / 20**
