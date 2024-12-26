@@ -23,6 +23,3 @@
 * [Treasuries](https://docs.treasuries.io)
 * [Funding](https://funding.treasuries.io)
 * [Suggestions](https://suggestions.treasuries.io)
-* [Treasuries](https://docs.treasuries.co)
-* [Funding](https://funding.treasuries.co)
-* [Suggestions](https://suggestions.treasuries.co)
