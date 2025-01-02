@@ -4,40 +4,42 @@ description: >-
   for the treasury
 ---
 
-# Reusing inactive assets
+# Inactivity tax
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/income-reusing-inactive-assets.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/income-reusing-inactive-assets.png" alt="" width="225"><figcaption></figcaption></figure>
-
-</div>
-
-After a long period of inactivity the assets in a wallet could be taxed and reused as a form of income for the ecosystems treasury. This income could pay for network operation costs and other ecosystem initiatives. This income approach could be effective at preventing the accumulation of deadweight assets that make a network deflationary over time due to people losing access to their wallets due to lost passwords or when people pass away and don’t set up any process for their family to claim their assets. Reusing inactive assets could help with ensuring that the total supply of coins available in an ecosystem is always eventually active by preventing these assets from becoming lost over the long term. An ecosystem could adopt any length of time before this taxation starts to occur and could also make it happen gradually or suddenly. There are a number of approaches that could be used by a network that wants to reuse its inactive assets. As some examples, one ecosystem might decide to remove all of the assets from an inactive wallet after 10 years of inactivity whereas another ecosystem might decide to tax 5% of the assets in a dormant wallet each year after 5 years of inactivity.
+After long periods of inactivity a wallet could be taxed and the coins that get collected could be reused as a form of income for the ecosystem's treasury. This income approach could be effective at preventing the accumulation of deadweight assets that make a network deflationary over time due to people losing access to their wallets. This can happen due to lost passwords or when people pass away and don’t set up any process for their family to claim their assets. Reusing the inactive network coins could help with ensuring that the total supply of coins is always eventually available in the ecosystem. An ecosystem will need to decide what length of time makes sense before this taxation starts to occur and whether the taxation amount should be a fixed amount or progressively increase over time. There are a number of approaches that could be used. One ecosystem might decide to remove all of the assets from an inactive wallet after 10 years of inactivity whereas another ecosystem might decide to tax 1, 5 or 10 coins in any dormant wallet each and every year after 5 years of inactivity.
 
 
 
 **Very low short term income potential (Score - 1)**
 
-Reusing inactive assets requires the assets to be dormant for a moderate to long period of time. This means this approach would not be very useful for generating short term treasury income.
+Reusing inactive coins means the wallets need to be inactive for a moderate to long period of time. This means that this approach would not be very useful for generating any income in the short term.
 
 
 
-**High long term income potential (Score - 4)**
+**Moderate long term income potential (Score - 3)**
 
-As the ecosystem grows there could be an increasing number of users that lose access to their wallets due to forgetting their password or due to someone passing away that hasn’t given any relatives or friends the ability to access their assets. As the number of these types of events grow over time there is an increased probability that a stream of income could be generated for the ecosystem treasury. The amount of income generated from this approach could be limited as an increasing number of solutions would likely emerge to ensure someones assets never get lost due to the use of back up solutions and multi-signature approaches that could give family and friends better access to any soon to be dormant assets. Even if these solutions do emerge this approach could still be an effective supplementary approach to generate income for the ecosystems treasury that also can help with preventing assets from becoming lost and unusable over time.
-
-
-
-**Low incentive complexities (Score - 4)**
-
-There is low incentive complexity regarding how the income is generated when reusing inactive assets. The wallet is provably dormant and the assets have not been used for a long period of time. Once any assets are reclaimed they could be used by a community to support any ecosystem initiative that help with improving and maintaining the ecosystem. The only main incentive complexities that exist would be around whether the founding entities still have control over the treasury and how those funds would be disbursed.
+As the ecosystem grows there could be an increasing number of users that lose access to their wallets due to forgetting their password or due to someone passing away that hasn’t given any relatives or friends the ability to access their assets. As the number of these types of events grow over time there is an increased probability that a stream of income could be generated. The amount of income generated from this approach could be limited as an increasing number of solutions could emerge that ensure someone's assets never get lost due to the use of backup solutions and multi-signature approaches that could give family and friends better access to any lost or dormant assets. Even if these solutions do emerge this approach could still be an effective supplementary approach to generate income and it can also help with preventing coins from becoming increasingly lost and unusable over time.
 
 
 
-**Very low game theory risks (Score - 5)**
+**Very low incentive complexities (Score - 5)**
 
-The wallets that are inactive and end up having their assets reclaimed by the network would have no increased influence over how assets get disbursed. Similarly this income approach wouldn’t increase the amount of influence that any other community members has over the collection or allocation of that income. No immediately obvious game theory risks exist for this income approach. The community would need to govern the changes made to any of the parameters involved in how often and how much is claimed from dormant and inactive wallets.
+There is low income generating complexity regarding when inactive coins are taxed. The wallet is provably dormant and the assets have not been used for a long period of time.
 
 
 
-**Total score = 14 / 20**
+**Very low malicious actor risks (Score - 5)**
+
+The wallets that are inactive and end up having their assets reclaimed by the network would have no increased influence over how assets get disbursed or if they did it would only be proportional to the tax that they have contributed. There is no incentive for bad actors to leave wallets dormant so this income approach doesn’t create any obvious malicious actor risks to be concerned with. The only main area of concern is ensuring the community is actively involved in any decisions about changing the parameters that are used that determine when and how much is collected from inactive wallets.
+
+
+
+**Low transaction deadweight loss (Score - 4)**
+
+Inactive wallets would not be creating transactions and this income approach would be incentivising them to use the wallet and create transactions rather than the opposite. This income approach should help with generating new transactions rather than them being sat idle in an unused account. If the parameters of the taxation meant that the tax happened too soon it could cause some deadweight loss if it means people avoided the network due to that parameter choice.
+
+
+
+**Total score = 18 / 25**

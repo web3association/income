@@ -36,10 +36,10 @@ Everyone pays the same proportional tax amount based on the amount of coins they
 
 
 
-**Very low transaction deadweight loss (Score - 5)**
+**Low transaction deadweight loss (Score - 4)**
 
-Fees are not added to transactions and the tax that gets collected from accounts and contracts could even be used to subsidise the node operators. So this approach could lead to even more transactions rather than less as it could make the network even more competitive against other ecosystems.
+Adding a wealth tax or increasing a wealth tax could result in people deciding to avoid the network due to the tax. This in itself could mean a reduced amount of transaction volume. The wealth tax doesn't necessarily get charged to people if they use the network and immediately use all of their coins for exchange or investment. The impact on the end user is minimal over short periods, such as usage for a few days or weeks. The counter argument is that the wealth tax could be used to subsidise the node operators and mean a reduction in transaction fees. This could have a positive impact on transaction volume. So an increase in wealth tax could actually lead to an increase in transaction volume rather than less. Situations where this tax could more likely cause deadweight loss is if the wealth tax was too high and people avoided the network entirely.
 
 
 
-**Total score = 23 / 25**
+**Total score = 22 / 25**

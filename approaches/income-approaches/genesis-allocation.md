@@ -18,9 +18,9 @@ A genesis allocation of coins dedicated to supporting the ecosystem's developmen
 
 
 
-**Low long term income potential (Score - 2)**
+**Very low long term income potential (Score - 1)**
 
-A genesis allocation does not provide an ongoing and reliable income stream for the ecosystem's treasury. The genesis allocation of treasury assets could have a long term impact if they are slowly used over time. Some ecosystems might have the ability to stake their assets or use DeFi protocols to better maintain the value of the remaining assets over a longer time period. This approach could be effective for some ecosystems over the medium to long term but it might be difficult to push an active treasury management responsibility over to a large community.
+A genesis allocation does not provide any future income streams for the ecosystem's treasury. The genesis allocation of treasury assets could have a long term impact if they are slowly used over time however this approach does not generate future income.
 
 
 
@@ -42,4 +42,4 @@ The allocated genesis coins for the treasury are already pre-determined prior to
 
 
 
-**Total score = 22 / 25**
+**Total score = 21 / 25**
