@@ -14,10 +14,8 @@
 * [Transaction fee approaches](approaches/transaction-fee-approaches/README.md)
   * [Transaction fee factors for consideration](approaches/transaction-fee-approaches/transaction-fee-factors-for-consideration.md)
   * [Fixed fee](approaches/transaction-fee-approaches/fixed-fee.md)
-  * [Percentage fee](approaches/transaction-fee-approaches/percentage-fee.md)
-  * [Fixed & percentage fee](approaches/transaction-fee-approaches/fixed-and-percentage-fee.md)
-  * [Percentage finality fee](approaches/transaction-fee-approaches/percentage-finality-fee.md)
-  * [Percentage demand fee](approaches/transaction-fee-approaches/percentage-demand-fee.md)
+  * [Finality fee](approaches/transaction-fee-approaches/percentage-finality-fee.md)
+  * [Demand fee](approaches/transaction-fee-approaches/percentage-demand-fee.md)
 
 ## 🔗 Links
 
