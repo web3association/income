@@ -16,6 +16,7 @@
   * [Fixed fee](approaches/transaction-fee-approaches/fixed-fee.md)
   * [Finality fee](approaches/transaction-fee-approaches/percentage-finality-fee.md)
   * [Demand fee](approaches/transaction-fee-approaches/percentage-demand-fee.md)
+* [Wealth tax approaches](approaches/wealth-tax-approaches.md)
 
 ## 🔗 Links
 
