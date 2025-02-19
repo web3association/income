@@ -20,6 +20,6 @@
 
 ## 🔗 Links
 
-* [Treasuries](https://docs.treasuries.io)
-* [Funding](https://funding.treasuries.io)
-* [Suggestions](https://suggestions.treasuries.io)
+* [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
+* [Funding](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
+* [Governance](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/hF4E7bptYBBLKtLpZZmT/)
