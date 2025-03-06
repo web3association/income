@@ -8,7 +8,7 @@ description: >-
 
 <div align="left"><figure><img src="../../.gitbook/assets/income-asset-holding-tax.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
-A wealth tax would be a recurring fee that is charged to every account and contract in the network based on the total amount of coins they have. This tax can then be directed towards the treasury as income. A wealth tax could create a predictable and sustainable circular economy where ongoing income is generated to support a number of different treasury responsibilities.
+A wealth tax would be a recurring fee that is charged to every account and contract in the network based on the total amount of coins they have. This tax can then be directed towards the treasury as income. A wealth tax could create a predictable and reliable circular economy where ongoing income is generated to support a number of different treasury responsibilities.
 
 
 
@@ -20,7 +20,7 @@ A new Web3 ecosystem could introduce a wealth tax immediately or as soon as it w
 
 **Very high long term income potential (Score - 5)**
 
-A wealth tax provides a highly predictable and reliable way to generate income for the treasury over the long term. This approach does not rely on a certain amount of transactions. Instead it would always tax the same amount and just take a percentage amount from every wallet or contract that exists in the network. The main variable that could fluctuate is the value of the coin relative to other networks outside the ecosystem. If the tax is being used effectively to fund impactful initiatives this shouldn’t be a large problem for the ecosystem over the long term. For the most successful ecosystems that sustain community investment and usage, this income approach would provide highly predictable and reliable income for the treasury.
+If a wealth tax can be sustained it provides a highly predictable and reliable way to generate income for the treasury over the long term. This approach does not rely on a certain amount of transactions. Instead it would always tax the same amount and just take a percentage amount from every wallet or contract that exists in the network. The main variable that could fluctuate is the value of the coin relative to other networks outside the ecosystem. If the tax is being used effectively to fund impactful initiatives this shouldn’t be a large problem for the ecosystem over the long term. For the most successful ecosystems that sustain community investment and usage, this income approach would provide highly predictable and reliable income for the treasury.
 
 
 
@@ -38,7 +38,7 @@ Everyone pays the same proportional tax amount based on the amount of coins they
 
 **Low transaction deadweight loss (Score - 4)**
 
-Adding a wealth tax or increasing a wealth tax could result in people deciding to avoid the network due to the tax. This in itself could mean a reduced amount of transaction volume. The wealth tax doesn't necessarily get charged to people if they use the network and immediately use all of their coins for exchange or investment. The impact on the end user is minimal over short periods, such as usage for a few days or weeks. The counter argument is that the wealth tax could be used to subsidise the node operators and mean a reduction in transaction fees. This could have a positive impact on transaction volume. So an increase in wealth tax could actually lead to an increase in transaction volume rather than less. Situations where this tax could more likely cause deadweight loss is if the wealth tax was too high and people avoided the network entirely.
+Adding a wealth tax or increasing a wealth tax could result in people deciding to avoid the network entirely due to the tax. This in itself could mean a reduced amount of transaction volume. However the wealth tax doesn't necessarily mean people will be taxed, as they could just use the network coin to pay for transaction fees and not hold it in their wallet. The impact of the wealth tax is minimal over short periods, such as holding the coin for a few days or weeks. The wealth tax could be used to subsidise the node operators which can help with reducing transaction fees as much as possible. The only limiting factor is the fact that if they become too cheap a malicious actor will be able to spam the network more easily. Subsidised transaction fees could help with generating more transaction volume. The higher the wealth tax the more likely it becomes that the tax will indirectly cause transaction deadweight loss.
 
 
 

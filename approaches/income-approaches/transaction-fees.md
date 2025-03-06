@@ -8,6 +8,8 @@ description: A percentage of fees from transactions could be used as treasury in
 
 Fees can be collected when transactions get submitted on a network. Transaction fees commonly pay for node operation costs but they could also or alternatively be collected as income for the ecosystems treasury. Transaction fees could potentially create a sustainable circular economy where ongoing income is generated to support a number of different treasury funding responsibilities.
 
+There are two distinct ways that transaction fees could contribute towards the treasury as income. The first is by adding a fee onto every transaction that will be sent to the treasury such as a 20% transaction fee increase. The second way is that the lowest possible fees is applied and once node operators get compensated up to a certain threshold the excess income is used for the treasury. The first approach is good for generating more consistent income for the treasury but is problematic for causing transaction deadweight loss as the fees aren’t as low as they could be. This creates an opportunity for another network to be introduced that removes this fee and is consistently cheaper to use than the existing network. The other approach doesn’t have a large transaction deadweight loss problem however it would lead to less predictable and meaningful income for the treasury. Due to the incentives that exist for people to use the cheapest network the second approach is the most compelling one that will be applied to the analysis below.
+
 
 
 **Low short term income potential (Score - 2)**
@@ -16,9 +18,9 @@ A new and growing Web3 ecosystem will often have a limited amount of transaction
 
 
 
-**High long term income potential (Score - 4)**
+**Moderate long term income potential (Score - 3)**
 
-As an ecosystem grows the number of transactions should also increase over time. Large transaction volume could result in a more meaningful amount of income for the ecosystem's treasury. A growing amount of use cases could be one reason why an ecosystem is able to generate more demand and transactions in the network. Growing both the number of use cases and the number of users that participate in the network can both be important factors for increasing the total amount of transaction volume and fees that the ecosystem could generate on a daily basis. These fees can then be used to fund future ecosystem initiatives. The only main problem with this approach is the amount of transaction fees generated could vary on a daily, weekly and monthly basis based on a multitude of internal and external factors. There could be periods of time where there are far fewer transactions submitted and this could lead to unpredictable and unreliable treasury income.
+A moderate amount of income could be generated for the treasury if the transaction fees exceed the cost of compensating the node operators. There will be no guarantee that much income is generated for the treasury as the network will be constantly trying to adopt the lowest possible fees. The amount of transactions could vary quite drastically which means this approach for generating income could be unreliable.
 
 
 
@@ -34,10 +36,10 @@ Everyone would pay the same transaction fees based on the adopted fee approach. 
 
 
 
-**Very high transaction deadweight loss (Score - 1)**
+**Low transaction deadweight loss (Score - 4)**
 
-Any additional fees that get added to transactions can cause a deadweight loss due to the loss of potential transactions that get submitted. The larger the fees the larger the amount of deadweight loss. This could be highly problematic in a market with highly competitive networks that each are trying to optimise and reduce their fees as much as possible.
+If fees are as low as they can be and transaction fees only contribute towards the treasury after the node operators have been fairly compensated there is less risk around transaction deadweight loss as the transactions are always as low as they can be. The main problem with a dynamically changing transaction fee price to adjust for transaction volume is that it is always a prediction of how many transactions will come in. This means it would be problematic if the transaction volume fell short of the prediction as this could mean under compensating the node operators. To safeguard the network it will make sense to add a small buffer to ensure that node operators are sufficiently compensated in the event the number of transactions are lowed than expected. This buffer and increase in fees can lead to deadweight loss. The larger the changes in the number of transactions the larger the buffer that is needed to prevent the issue of under compensating node operators.
 
 
 
-**Total score = 13 / 25**
+**Total score = 15 / 25**

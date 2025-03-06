@@ -38,7 +38,7 @@ The wallets that are inactive and end up having their assets reclaimed by the ne
 
 **Low transaction deadweight loss (Score - 4)**
 
-Inactive wallets would not be creating transactions and this income approach would be incentivising them to use the wallet and create transactions rather than the opposite. This income approach should help with generating new transactions rather than them being sat idle in an unused account. If the parameters of the taxation meant that the tax happened too soon it could cause some deadweight loss if it means people avoided the network due to that parameter choice.
+Inactive wallets would not be creating transactions and this income approach would be incentivising them to use the wallet and create transactions rather than the opposite. This income approach should help with generating new transactions rather than network coins being sat idle in an unused account. If the parameters of this taxation approach meant that the tax was happening too soon it could cause some deadweight loss as some people might decide to avoid the network entirely due to the inactivity tax.
 
 
 
