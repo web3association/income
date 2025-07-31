@@ -12,9 +12,9 @@ Each transaction submitted and stored on a distributed ledger will generate a ce
 
 ## Percentage transaction fees are not necessary
 
-A percentage based wealth tax is one of the most reliable and predictable ways that a Web3 treasury could be funded over the long term. This tax would mean that the users with the most amount of coins would pay proportionally the most in tax.
+A percentage based network coin tax is one of the most reliable and predictable ways that a Web3 treasury could be funded over the long term. This tax would mean that the users with the most amount of coins would pay proportionally the most in tax.
 
-If an ecosystem didn’t want to adopt a wealth tax it would have a problematic situation for generating meaningful income for the treasury over the long term.
+If an ecosystem didn’t want to adopt a network coin tax it would have a problematic situation for generating meaningful income for the treasury over the long term.
 
 Fixed fee transactions are inherently unfair for the users with the least amount of coins. Those with less coins would proportionally pay the most in fees to the network. Those with the most coins would pay proportionally the least. A fixed fee model makes it easier for the wealthier users to remain wealthy whilst punishing the poorest users with higher proportional fees.
 
@@ -22,13 +22,13 @@ Combining a minimum fixed fee (to protect the network from spam) and a percentag
 
 Percentage transaction fees would also mean that the most active and valuable users in the network would be the only ones that would be contributing towards the treasury. The least active and least valuable users that buy and hold the network coin would contribute the least. The incentives are not fairly aligned with a transaction fee approach for generating treasury income as these inactive users are gaining all the benefits from the contributions that get made by active users.
 
-Percentage fee transactions will therefore be omitted from the transaction fee comparison due to the fact that a wealth tax is a far more effective and egalitarian approach for generating treasury income.
+Percentage fee transactions will therefore be omitted from the transaction fee comparison due to the fact that a network coin tax is a far more effective and egalitarian approach for generating treasury income.
 
 
 
 ## Handling transaction spam
 
-Transaction fees could be considered a necessity for Web3 networks. Paying node operators with a wealth tax would not mean that transactions can then be free. If transactions were free it would create an easy attack vector for malicious actors as they could spam the network with transactions and make it unusable for other people. This type of attack is known as a denial of service attack.
+Transaction fees could be considered a necessity for Web3 networks. Paying node operators with a network coin tax would not mean that transactions can then be free. If transactions were free it would create an easy attack vector for malicious actors as they could spam the network with transactions and make it unusable for other people. This type of attack is known as a denial of service attack.
 
 Fees that are too low create a risk of inviting these denial of service attacks. Fees that are too high creates the risk that users migrate to other networks that are cheaper to use. Transaction fees will influence the overall usage and emergent behaviours across the networks due to the fact that transaction fees determine the actual cost of using the network on a daily basis.
 

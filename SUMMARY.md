@@ -9,14 +9,14 @@
   * [Donations](approaches/income-approaches/donations.md)
   * [Genesis allocation](approaches/income-approaches/genesis-allocation.md)
   * [Transaction fees](approaches/income-approaches/transaction-fees.md)
-  * [Wealth tax](approaches/income-approaches/wealth-tax.md)
+  * [Network coin tax](approaches/income-approaches/network-coin-tax.md)
   * [Inactivity tax](approaches/income-approaches/reusing-inactive-assets.md)
 * [Transaction fee approaches](approaches/transaction-fee-approaches/README.md)
   * [Transaction fee factors for consideration](approaches/transaction-fee-approaches/transaction-fee-factors-for-consideration.md)
   * [Fixed fee](approaches/transaction-fee-approaches/fixed-fee.md)
   * [Finality fee](approaches/transaction-fee-approaches/percentage-finality-fee.md)
   * [Demand fee](approaches/transaction-fee-approaches/percentage-demand-fee.md)
-* [Wealth tax approaches](approaches/wealth-tax-approaches.md)
+* [Network coin tax approaches](approaches/network-coin-tax-approaches.md)
 
 ## 🔗 Links
 
